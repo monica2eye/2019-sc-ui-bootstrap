@@ -1,0 +1,11 @@
+/* font-family: 'Lora', serif; */
+@import url('https://fonts.googleapis.com/css?family=Lora');
+html, body {font-family: 'Lora', serif; font-size: 16px;}
+.img: {width:100%;}
+
+header {font-size: 1.5rem;}
+.tops > div {padding: 16px;}
+nav > div {padding: 16px; display: inline-block;}
+nav > div:hover {background-color: #cccccc;}
+
+footer.label {display: inline-block; margin:6px 2px;}
